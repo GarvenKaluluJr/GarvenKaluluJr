@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on an airline ticketing system that works parallel using Python.<br>I want to collaborate on any database-based system, specifically in PostGresSQL or SQL.I am currently learning Javascript and SQL.<br>Ask me about Python, C++, Postgres, Any English writing(Essay, Job application etc), Word,Excel etc.<br><br><br>
+<br>I want to collaborate on any database-based system, specifically in PostGresSQL or SQL.I am currently learning Javascript and SQL.<br>Ask me about Python, C++, Postgres, Any English writing(Essay, Job application etc), Word,Excel etc.<br><br><br>
 
 
 ## 🌐 Socials:
