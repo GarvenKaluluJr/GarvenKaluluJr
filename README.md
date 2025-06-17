@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I want to collaborate on any database-based project, specifically in PostGresSQL or SQL.<br>Ask me about Python, C++, Postgres, Any English writing(Essay, Job application etc), Word,Excel etc.<br><br><br>
+<br>Python, C++, Postgres, Any English writing(Essay, Job application etc), Word,Excel etc.<br>
 
 
 ## 🌐 Socials:
