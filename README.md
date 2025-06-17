@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Python, C++, Postgres,Java, Any English writing(Essay, Job application etc), Word,Excel etc.<br>
+<br>Python, C++, Postgresql,Java, Any English writing(Essay, Job application etc), Word,Excel etc.<br>
 
 
 ## 🌐 Socials:
